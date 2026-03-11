@@ -1,2 +1,2 @@
-MCU: RP2040-Matrix_AH
+Devboard: RaspberryPi_Pico_Common_Unspecified (RP2040)
 Switches: Cherry-MX 19.05
